@@ -10,4 +10,9 @@ love you
 love
 mmmm
 >>>>>>> mine
+<<<<<<< Updated upstream
 ccc
+=======
+ddd
+ccc
+>>>>>>> Stashed changes
