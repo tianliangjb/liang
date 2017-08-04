@@ -3,4 +3,10 @@ The early bird catches the worm
 You are beautiful
 you
 I love you
+<<<<<<< HEAD
 girl
+=======
+love you
+love
+mmmm
+>>>>>>> mine
